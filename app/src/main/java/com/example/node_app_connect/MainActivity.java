@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        
+        Log.i("TAG 24","Message");
+        
         Log.i("TAG","Message");
         Log.i("TAG1","Message");
     }
